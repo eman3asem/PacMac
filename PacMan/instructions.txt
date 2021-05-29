@@ -1,0 +1,33 @@
+Pac-man istruction:
+ Pac-Man was one of the very interesting games developed around 1980. 
+- Move Pac-Man: Pac-Man starts at the bottom of the maze. 
+Move him by swiping towards the direction you want him to turn. 
+If you want to move him up, swipe up. If you want to turn him left, 
+swipe left. Pac-Man will start moving. If you have the game sounds on, 
+you can hear the classic chomping sound as Pac-Man moves through 
+the maze.
+- Avoid ghosts: Avoid the different colored ghosts in the maze. 
+Once you hit one, you lose one of you lives.
+- Immunity: when pac-man eats big dots you get immunity and 
+you can eat ghosts 
+- Eat Pac-dots: The maze is filled with Pac-dots and pickups 
+for Pac-Man to eat. Your score is based on the number of dots 
+you eat in the game before getting hit by the glitch or a ghost. 
+Move Pac-Man across the maze and eat as many Pac-dots as possible.
+- Eat fruits: Aside from the Pac-dots, there are a few 
+fruits scattered on the maze. These fruits will multiply 
+your scores. When you see one, see if you can eat it without 
+risking getting eaten by ghosts.
+- Small dots boost the score by 10
+- Big dots boost the score by 50 and gives you immunity
+- fruits gives you one extra life
+- fire boosts the score by 100.
+- Ghosts boost the score by 200 during immunity.
+- Beat your best score: Continue playing and beat your 
+highest score. The further up the maze you go, the more 
+Pac-dots you can eat, and the more points you get. Eating 
+the fruits and the ghosts will also increase your score. 
+Your score is displayed at the top part of the maze as you 
+play.
+- Control sounds: you can trun on or off the sounds in the
+game.
